@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "practica1_hugo_meneses/1.0.0": {
+        "runtime": {
+          "practica1_hugo_meneses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practica1_hugo_meneses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
